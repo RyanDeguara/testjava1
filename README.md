@@ -2,4 +2,4 @@
 
 Example for class
 
-example2
+example 3
